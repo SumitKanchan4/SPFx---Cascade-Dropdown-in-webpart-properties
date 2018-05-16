@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-cascade-dropdown",
+    "libraryId": "fdf8c982-973d-42df-a41b-b71d13ac031e",
+    "environment": "spo"
+  }
+}

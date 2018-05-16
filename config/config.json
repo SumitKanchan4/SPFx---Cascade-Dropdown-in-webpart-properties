@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "demo-cascade-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/demoCascade/DemoCascadeWebPart.js",
+          "manifest": "./src/webparts/demoCascade/DemoCascadeWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DemoCascadeWebPartStrings": "lib/webparts/demoCascade/loc/{locale}.js"
+  }
+}

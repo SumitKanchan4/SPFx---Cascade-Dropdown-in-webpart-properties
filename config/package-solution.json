@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-cascade-dropdown-client-side-solution",
+    "id": "fdf8c982-973d-42df-a41b-b71d13ac031e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-cascade-dropdown.sppkg"
+  }
+}
